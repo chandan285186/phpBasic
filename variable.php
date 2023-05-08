@@ -14,19 +14,7 @@
 -->
 
 
-<?php
-$chandan = $_POST['number1']%2;
-if($chandan==0)
-{
-echo'number 1 is even';
-}
-else
-{
-echo'number 1 is odd';
-}
 
-
-?>
 
 
 
