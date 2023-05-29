@@ -4,6 +4,13 @@
 
 
 
+
+
+
+<?php
+ $das = $_POST['number1']+ $_POST['number2'];
+ echo "$das";
+?>
 <html lang="en">
 <boby>
 <form action="" method="post">
@@ -14,10 +21,3 @@
 </form>
 </boby>
 </html>
-
-
-
-<?php
- $das = $_POST['number1']+ $_POST['number2'];
- echo "$das";
-?>
